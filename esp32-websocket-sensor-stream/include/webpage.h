@@ -95,7 +95,7 @@ const char *WEB_PAGE PROGMEM = R"====(
 <body>
   <header class="heading">
     <h3 >ESP32 SENSOR STREAM</h3>
-    <h4>Web Socket</h4>
+    <h4>WebSocket Protocol</h4>
   </header>
 
   <main>
